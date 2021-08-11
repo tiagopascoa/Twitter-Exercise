@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Benedict Evans",
+        "username": "@benedictevans",
+        "image": "https://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_400x400.jpg",
+        "tweet": "Machine Learning is eating software"
+    },
+    {
+        "id": 2,
+        "name": "Elon Musk",
+        "username": "@elonmusk",
+        "image": "https://pbs.twimg.com/profile_images/972170159614906369/0o9cdCOp_400x400.jpg",
+        "tweet": "When something is important enough, you do it even if the odds are not in your favor."
+    },
+    {
+        "id": 3,
+        "name": "Ben Horowitz",
+        "username": "@bhorowitz",
+        "image": "https://pbs.twimg.com/profile_images/1246957643400237056/qOvDJqIc_400x400.png",
+        "tweet": "Must read: Hard things about hard things"
+    }
+]
